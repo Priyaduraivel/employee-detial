@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employee-detial/static/css/main.e6c13ad2.css",
+    "main.js": "/employee-detial/static/js/main.846d50cb.js",
+    "static/js/488.75f1601f.chunk.js": "/employee-detial/static/js/488.75f1601f.chunk.js",
+    "index.html": "/employee-detial/index.html",
+    "main.e6c13ad2.css.map": "/employee-detial/static/css/main.e6c13ad2.css.map",
+    "main.846d50cb.js.map": "/employee-detial/static/js/main.846d50cb.js.map",
+    "488.75f1601f.chunk.js.map": "/employee-detial/static/js/488.75f1601f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.846d50cb.js"
+  ]
+}
